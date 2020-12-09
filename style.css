@@ -1,0 +1,144 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    background-color: #2f3035;
+    background-image: url(img/restu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+    font-size: 18px;
+    color: 222,74,33;
+    padding-bottom: 40px;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.385);
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+a {
+    font-size: 18px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    margin-top: 20px;
+}
+
+
+main .bgd {
+    background-color: rgba(0, 0, 0, 0.412);
+}
+
+main .meet {
+    font-size: 84px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.one {
+    font-size: 18px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.two {
+    font-size: 18px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.four {
+     font-size: 18px;
+     color: whitesmoke;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.five a {
+     text-decoration: underline;
+}
+
+.maps {
+    padding-bottom: 100px;
+    padding-top: 50px;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 40px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.344);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer, .menu-b {
+  text-align: center;
+  font-size: 15px;
+  color: rgba(231, 221, 221, 0.871);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+footer, .input, .btn1, .btn2 {
+   text-align: :right;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   padding-top: 0%;
+   padding-bottom: 0%;
+   margin-top: 0%;
+   margin-bottom: 0%;
+}
+
+footer, .check, .rtn {
+   padding-top: 0%;
+   padding-bottom: 0%;
+   margin-top: 0%;
+   margin-bottom: 0%;
+   text-align: left;
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   color:whitesmoke;
+}
+
+footer .vid {
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: right;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:whitesmoke;
+}
